@@ -1,0 +1,174 @@
+ADDRESS,Data Split,PROPERTY TYPE,PredictedPrice,PRICE
+4754 Ocean Blvd,Train,Single Family Residential,6121976.0,6200000
+85 Woodward St,Train,Single Family Residential,5675904.0,5750000
+4518 Olde Plantation Pl,Train,Single Family Residential,4933118.0,5500000
+400 Coleman Pt,Train,Single Family Residential,5348678.0,5500000
+621 Calhoun Ave,Train,Single Family Residential,4367142.0,4630000
+612 Magnolia Dr,Train,Single Family Residential,3814152.0,3836000
+4662 Destiny Way,Train,Single Family Residential,3611508.0,3653000
+4748 ocean Blvd,Train,Single Family Residential,3135058.0,3500000
+3484 Scenic Highway 98,Train,Single Family Residential,3358263.0,3400000
+446 Admiral Ct,Test,Single Family Residential,2724162.0,3400000
+4713 Ocean Blvd,Train,Single Family Residential,3552269.0,3325000
+4511 Sawgrass Way,Train,Single Family Residential,3206415.0,3200000
+4548 Sailmaker Ln,Test,Single Family Residential,3510335.0,3150000
+4761 Ocean Blvd,Train,Single Family Residential,2896793.0,2950000
+XXX Cottage Way #7,Train,Single Family Residential,2528874.0,2775000
+4668 Westwinds Way,Test,Single Family Residential,2595393.0,2600000
+103 Shirah St,Test,Single Family Residential,1959881.0,2500000
+4659 Westwinds Way,Train,Single Family Residential,2500974.0,2400000
+4806 Ocean Blvd,Test,Single Family Residential,3204840.0,2300000
+20 Norriego Rd,Test,Single Family Residential,1745213.0,2200000
+5 Cross Ct,Train,Single Family Residential,1896412.0,2200000
+499 Regatta Bay Blvd,Train,Single Family Residential,2329597.0,2185000
+4507 Olde Plantation Pl,Train,Single Family Residential,2237657.0,2100000
+3583 Waverly Cir,Train,Single Family Residential,1966769.0,1995000
+722 Harbor Blvd,Test,Single Family Residential,1468021.0,1995000
+4643 Destiny Way,Train,Single Family Residential,1949944.0,1959000
+4616 Paradise Isle,Train,Single Family Residential,2015825.0,1900000
+4630 Paradise Isle,Train,Single Family Residential,1750662.0,1900000
+53 Siesta Blf,Train,Single Family Residential,1902354.0,1900000
+4316 Stonebridge Rd,Test,Single Family Residential,1468150.0,1853000
+3889 Sandprint Dr,Test,Single Family Residential,1597792.0,1800000
+4712 Seastar Vis,Test,Single Family Residential,1867013.0,1800000
+4781 Ocean Blvd,Train,Single Family Residential,1840818.0,1775000
+515 Regatta Bay Blvd,Train,Single Family Residential,1620156.0,1749000
+510 Osceola Dr,Train,Single Family Residential,1600531.0,1730000
+515 Gulf Shore Dr,Train,Single Family Residential,1613260.0,1725000
+303 Corinthian Pl,Train,Single Family Residential,1687507.0,1695000
+4844 Ocean Blvd,Train,Single Family Residential,1553830.0,1675000
+4821 Ocean Blvd,Test,Single Family Residential,1328082.0,1650000
+4430 Stonebridge Rd,Train,Single Family Residential,1607027.0,1650000
+3610 Melrose Ave,Train,Single Family Residential,1816693.0,1638000
+702 Harbor Blvd,Test,Single Family Residential,631672.0,1600000
+4657 Destiny Way,Test,Single Family Residential,1963546.0,1590000
+3993 Indian Trl,Train,Single Family Residential,1492380.0,1575000
+4117 Indian Bayou North,Train,Single Family Residential,1528214.0,1550000
+262 Lantern Ln,Test,Single Family Residential,1756816.0,1549700
+6278 Augusta Cv,Train,Single Family Residential,1429637.0,1465000
+248 Matties Way,Train,Single Family Residential,1496500.0,1450000
+4077 N Indian Byu,Train,Single Family Residential,1379987.0,1440000
+435 Admiral Ct,Train,Single Family Residential,1278392.0,1359000
+710 Beach Dr,Train,Single Family Residential,1376303.0,1350000
+4304 Stonebridge Rd,Train,Single Family Residential,1435573.0,1349000
+76 Stingray St,Train,Single Family Residential,1315833.0,1300000
+3551 Scenic Hwy 98 17,Train,Single Family Residential,1313318.0,1290000
+3580 Waverly Cir,Train,Single Family Residential,1190497.0,1250000
+201 Matties Way,Test,Single Family Residential,1867782.0,1250000
+301 Sand Myrtle Trl,Test,Single Family Residential,964562.0,1250000
+276 Corinthian Pl,Train,Single Family Residential,1274211.0,1230000
+4453 Ocean View Dr,Train,Single Family Residential,1111457.0,1202000
+4473 Ocean View Dr,Train,Single Family Residential,1170724.0,1200000
+90 Terra Cotta Way,Test,Single Family Residential,1346363.0,1200000
+609 Calhoun Ave,Train,Single Family Residential,1363599.0,1200000
+77 Stingray St,Train,Single Family Residential,1142323.0,1175000
+87 Matthew Blvd,Train,Single Family Residential,1143039.0,1146000
+3619 Waverly Cir,Train,Single Family Residential,1137198.0,1130000
+4551 Village Way,Test,Single Family Residential,861433.0,1115000
+4399 Old Bayou Trl,Train,Single Family Residential,1141332.0,1060000
+4501 Luke Ave,Train,Single Family Residential,991425.0,1050000
+4706 Lantana Ln,Train,Single Family Residential,1062523.0,1050000
+261 Leaning Pines Loop,Train,Single Family Residential,878676.0,1025000
+212 Mattie's Way,Train,Single Family Residential,1100534.0,1025000
+4486 Luke Ave,Train,Single Family Residential,972797.0,1015000
+4307 Carriage Ln,Train,Single Family Residential,932115.0,995000
+4505 Pottery Pl,Train,Single Family Residential,1086948.0,975000
+205 Tahitian Way,Train,Single Family Residential,941957.0,960000
+4116 Indian Trl,Train,Single Family Residential,872625.0,950000
+92 Cayman Cv,Train,Single Family Residential,1093121.0,947000
+20 Jade Cv,Train,Single Family Residential,951495.0,943250
+90 Sunfish St,Test,Single Family Residential,870397.0,925000
+156 Baywinds Dr,Train,Single Family Residential,891046.0,925000
+4439 Luke Ave,Train,Single Family Residential,951162.0,925000
+226 Kono Way,Train,Single Family Residential,893713.0,889000
+200 W Grand Key Loop,Test,Single Family Residential,791729.0,885000
+33 E Country Club Dr,Train,Single Family Residential,900049.0,875000
+4481 C Luke Ave,Train,Single Family Residential,861752.0,875000
+4587 Sailmaker Ln,Train,Single Family Residential,822949.0,855000
+4046 Lauren Ct,Train,Single Family Residential,853158.0,850000
+422 Baywinds Dr,Train,Single Family Residential,833134.0,840000
+4064 Burning Tree Dr,Train,Single Family Residential,805272.0,828000
+275 Baywinds Dr,Train,Single Family Residential,823037.0,826000
+4734 Papaya Park Park,Test,Single Family Residential,847397.0,810000
+62 E Country Club Dr,Train,Single Family Residential,825589.0,806500
+4457 Clipper Cv,Train,Single Family Residential,841497.0,800000
+4030 Indian Trl,Test,Single Family Residential,521473.0,785000
+809 Mars St,Train,Single Family Residential,748804.0,752000
+261 Tequesta Dr,Train,Single Family Residential,708933.0,751400
+69 Crystal Beach Dr Unit 7,Train,Single Family Residential,791739.0,750000
+4736 Amhurst Cir,Train,Single Family Residential,741880.0,745000
+276 Baywinds Dr,Train,Single Family Residential,682376.0,730000
+56 E Country Club Dr,Train,Single Family Residential,711118.0,725000
+805 Kell Aire Dr,Train,Single Family Residential,672152.0,700000
+1213 Quail Lake Blvd,Train,Single Family Residential,717990.0,700000
+4571 Woodwind Pl,Train,Single Family Residential,652685.0,698000
+9 Cahaba Ln,Train,Single Family Residential,712432.0,690000
+390 Terrapin Trce,Train,Single Family Residential,699051.0,690000
+106 Fletcher Way,Train,Single Family Residential,672362.0,687900
+704 Harbor Ln,Train,Single Family Residential,712713.0,685000
+4663 Sunsail Cir,Train,Single Family Residential,675811.0,675000
+3991 Lauren Ct,Test,Single Family Residential,492681.0,675000
+419 Ridge Wood Cir,Train,Single Family Residential,700778.0,672000
+265 Tequesta Dr,Train,Single Family Residential,711799.0,670000
+69 Crystal Beach Dr Unit 15,Test,Single Family Residential,791739.0,650000
+4555 Woodwind Dr,Train,Single Family Residential,721270.0,645000
+4635 Sunsail Cir,Test,Single Family Residential,685769.0,640000
+804 Harbor Ln,Test,Single Family Residential,401935.0,635000
+66 Garnet Pl,Test,Single Family Residential,832375.0,630000
+105 Fletcher Way,Train,Single Family Residential,628603.0,627000
+101 Fletcher Way,Train,Single Family Residential,624339.0,627000
+29 Kristin Cv,Train,Single Family Residential,695546.0,625000
+270 Chipola Cv,Train,Single Family Residential,634180.0,625000
+1200 Bay Ct,Train,Single Family Residential,593690.0,619000
+4015 Drifting Sand Trl,Train,Single Family Residential,549088.0,606000
+4016 Drifting Sand Trl,Train,Single Family Residential,582224.0,605000
+278 Calusa Blvd,Train,Single Family Residential,664729.0,600000
+149 Kel Wen Cir,Test,Single Family Residential,508478.0,590000
+4624 Windstarr Dr,Train,Single Family Residential,642294.0,590000
+4093 Drifting Sand Trl,Train,Single Family Residential,608208.0,590000
+808 Dawn Ln,Train,Single Family Residential,584044.0,579000
+202 Kel Wen Cir,Train,Single Family Residential,555545.0,575000
+168 Kel-Wen Cir,Train,Single Family Residential,594654.0,575000
+843 Kell Aire Dr,Train,Single Family Residential,610348.0,575000
+503 Baywood Ct,Train,Single Family Residential,545611.0,567000
+4019 Drifting Sand Trl,Train,Single Family Residential,559183.0,563000
+244 Okeechobee Cv,Train,Single Family Residential,544923.0,550000
+106 Tuscany Dr,Train,Single Family Residential,533432.0,550000
+4091 Drifting Sand Trl,Train,Single Family Residential,521794.0,548000
+4005 Drifting Sand Trl,Train,Single Family Residential,563071.0,545000
+216 Calusa Blvd,Test,Single Family Residential,463112.0,540000
+4018 Lauren Ct,Train,Single Family Residential,588510.0,535000
+4087 Drifting Sand Trl,Test,Single Family Residential,515490.0,525000
+242 Calusa Blvd,Train,Single Family Residential,493542.0,520000
+4721 Amhurst Cir,Test,Single Family Residential,637062.0,505000
+94 Mantero Way,Train,Single Family Residential,528703.0,499900
+4691 Amhurst Cir,Test,Single Family Residential,551412.0,495000
+46 E Country Club Dr,Train,Single Family Residential,513277.0,490000
+4066 Drifting Sand Trl,Train,Single Family Residential,511279.0,487500
+302 Liriope Loop,Test,Single Family Residential,531665.0,485000
+319 Primrose Pl,Train,Single Family Residential,475799.0,485000
+859 Kell Aire Dr,Train,Single Family Residential,411759.0,480000
+618 Benning Dr,Train,Single Family Residential,470025.0,475000
+347 Skyler Run,Train,Single Family Residential,467190.0,469900
+307 Summit Dr,Train,Single Family Residential,504080.0,460000
+229 Inverrary Dr,Train,Single Family Residential,469073.0,460000
+614 4th St,Test,Single Family Residential,573358.0,460000
+268 Twin Lakes Ln,Train,Single Family Residential,407124.0,425000
+815 Jupiter St,Train,Single Family Residential,408287.0,420000
+269 Twin Lakes Ln,Train,Single Family Residential,420298.0,420000
+514 Third Ave,Train,Single Family Residential,429864.0,415000
+613 Sea Oats Dr,Train,Single Family Residential,418036.0,415000
+4675 Amhurst Cir,Train,Single Family Residential,412062.0,410000
+255 Twin Lakes Ln,Train,Single Family Residential,425909.0,410000
+3773 Misty Way,Train,Single Family Residential,416883.0,410000
+3812 Misty Way,Test,Single Family Residential,444503.0,405000
+500 Kelly St,Train,Single Family Residential,405366.0,400000
+145 Lola Cir,Train,Single Family Residential,372140.0,395000
+229 Twin Lakes Dr,Train,Single Family Residential,383249.0,383000
+181 Bent Arrow Dr,Train,Single Family Residential,354579.0,359000
+334 Stahlman Ave,Train,Single Family Residential,384029.0,339900
+606 Legion Dr,Train,Single Family Residential,337725.0,330000
+88 Log Pl,Train,Single Family Residential,343002.0,330000
+92 Cord Pl,Train,Single Family Residential,318521.0,315000
+3863 Indian Trl Unit 104,Train,Single Family Residential,326627.0,305000
+1217 Quail Lake Blvd,Train,Single Family Residential,354344.0,285000
